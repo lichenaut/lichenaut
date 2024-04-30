@@ -5,6 +5,8 @@
 
 - 📫 How to reach me: **https://linktr.ee/lichenaut**
 
+- ❤️ Help me maintain my projects: **https://ko-fi.com/lichenaut**
+
 - ⚡ Fun fact: **I like learning about ethics and geopolitics.**
 
 <h3 align="left">Languages and Tools:</h3>
