@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matthew</h1>
+<h1 align="center">Hey 👋, I'm lichenaut</h1>
 <h3 align="center">Completing my Computer Science BS at The University of Colorado: Denver</h3>
 
 - 💬 Ask me about: **minecraft plugins and datapacks, discord bots.**
