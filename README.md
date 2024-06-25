@@ -17,4 +17,3 @@
 <h3 align="left">Thank you, all who use my plugins!</h3>
 <img src="https://bstats.org/signatures/bukkit/datapackloader.svg" alt="DatapackLoader">
 <img src="https://bstats.org/signatures/bukkit/plantnerfer.svg" alt="PlantNerfer">
-<img src="https://bstats.org/signatures/bukkit/vegalts.svg" alt="VegAlts">
