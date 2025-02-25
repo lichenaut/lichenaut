@@ -1,5 +1,5 @@
 <h1 align="center">My name's lichenaut</h1>
-<h3 align="center">Completing my Computer Science BS, working on projects in my free time</h3>
+<h3 align="center">Completing my computer science BS, working on projects in my free time</h3>
 
 - 💬 Ask me about: **making the world a better place, the web, linux, minecraft**
 
